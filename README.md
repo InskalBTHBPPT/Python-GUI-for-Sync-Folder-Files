@@ -1,5 +1,5 @@
 # Python-GUI-for-Sync-Folder-Files
-Python GUI for Sync Folder Files between Two Folder
+Python GUI for Sync Folder & Files between Two Folder. You can use this app to sync between two folder at your PC or laptop to external drive and vice versa
 
 Reference:
 https://stackoverflow.com/questions/63725995/how-to-display-files-in-folder-when-using-pysimplegui-filebrowse-function
