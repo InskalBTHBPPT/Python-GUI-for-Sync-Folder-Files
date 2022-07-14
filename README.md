@@ -12,5 +12,3 @@ https://www.programcreek.com/python/example/115993/PySimpleGUI.Multiline
 
 ## Screenshoot
 ![ScreenShoot.jpg](./ScreenShoot.jpg)
-
-***Figure. 2.*** *Example of data log file.*
