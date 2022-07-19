@@ -83,7 +83,7 @@ while True:
     if event == 'Sync':
         
         #logger for sync info
-        Syncloggerpathinfo = 'Sync Done from' + '\n' + filefolderinput + '\n' + 'to' + '\n' + filefolderoutput + '\n'
+        Syncloggerpathinfo = 'Sync from' + '\n' + filefolderinput + '\n' + 'to' + '\n' + filefolderoutput + '\n'
         Syncloggerinfo = sg.eprint(Syncloggerpathinfo, size = (40,10), do_not_reroute_stdout=False,
         no_titlebar = True)
 
